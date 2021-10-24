@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [(https://htmlpreview.github.io/?https://github.com/Demonohu/3-Column-preview-card/blob/main/3-column-preview-card-component-main/index.html)]
 
 
 ### Built with
