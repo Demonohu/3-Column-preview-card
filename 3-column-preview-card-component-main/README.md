@@ -10,10 +10,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Links](#links)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-This is purelu UI. 
+This is purely UI. 
 
 ### The challenge
 
@@ -25,6 +24,7 @@ Users should be able to:
 ### Screenshot
 
 [Screenshot of the mobile view](mobileview.jpg)
+
 [Screenshot of the desktop view](desktopview.jpg)
 
 
