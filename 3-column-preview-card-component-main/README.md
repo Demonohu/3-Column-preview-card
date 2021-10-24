@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-[Screenshot of the mobile view](mobileview.jpg)
+[Screenshot of the mobile view](mobileview.png)
 
-[Screenshot of the desktop view](desktopview.jpg)
+[Screenshot of the desktop view](desktopview.png)
 
 
 ### Links
